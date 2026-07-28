@@ -3,6 +3,17 @@ Welcome to the Character Recognition Studio! This application uses a deep learni
 
 
 
+dataset link : {
+    https://www.kaggle.com/code/mohammadkumail/handwritten-character-recognition-deep-learning
+    }
+
+
+
+create 2 empty folder:
+- models
+- numpyfiles
+
+
 run file in sequence:
 - dataprocessing
 - architectuce
