@@ -11,8 +11,8 @@ run file in sequence:
 
 
 Want to display this in your Python console at startup:
-    print("  [Left-Click + Drag]  : Draw character on canvas")
-    print("  [Right-Click + Drag] : Erase specific strokes")
-    print("  [Release Mouse]      : Auto-run model prediction")
-    print("  [Press 'C']          : Clear the canvas")
-    print("  [Press 'Esc'] / [X]  : Exit application")
+    ("  [Left-Click + Drag]  : Draw character on canvas")
+    ("  [Right-Click + Drag] : Erase specific strokes")
+    ("  [Release Mouse]      : Auto-run model prediction")
+    ("  [Press 'C']          : Clear the canvas")
+    ("  [Press 'Esc'] / [X]  : Exit application")
